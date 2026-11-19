@@ -1,0 +1,9 @@
+{
+  "borrowers": [],
+  "loans": [],
+  "payments": [],
+  "settings": {
+    "businessName": "SARDIUS FINANCE CORPORATION",
+    "currency": "PHP"
+  }
+}
